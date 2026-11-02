@@ -1,0 +1,736 @@
+{
+  "styles": {
+    "8000": {
+      "name": "Precision",
+      "icon": "/riot/img/rune/style-8000.png",
+      "slots": [
+        {
+          "runes": [
+            {
+              "id": 8005,
+              "name": "Press the Attack",
+              "icon": "/riot/img/rune/8005.png"
+            },
+            {
+              "id": 8008,
+              "name": "Lethal Tempo",
+              "icon": "/riot/img/rune/8008.png"
+            },
+            {
+              "id": 8021,
+              "name": "Fleet Footwork",
+              "icon": "/riot/img/rune/8021.png"
+            },
+            {
+              "id": 8010,
+              "name": "Conqueror",
+              "icon": "/riot/img/rune/8010.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 9101,
+              "name": "Absorb Life",
+              "icon": "/riot/img/rune/9101.png"
+            },
+            {
+              "id": 9111,
+              "name": "Triumph",
+              "icon": "/riot/img/rune/9111.png"
+            },
+            {
+              "id": 8009,
+              "name": "Presence of Mind",
+              "icon": "/riot/img/rune/8009.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 9104,
+              "name": "Legend: Alacrity",
+              "icon": "/riot/img/rune/9104.png"
+            },
+            {
+              "id": 9105,
+              "name": "Legend: Haste",
+              "icon": "/riot/img/rune/9105.png"
+            },
+            {
+              "id": 9103,
+              "name": "Legend: Bloodline",
+              "icon": "/riot/img/rune/9103.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8014,
+              "name": "Coup de Grace",
+              "icon": "/riot/img/rune/8014.png"
+            },
+            {
+              "id": 8017,
+              "name": "Cut Down",
+              "icon": "/riot/img/rune/8017.png"
+            },
+            {
+              "id": 8299,
+              "name": "Last Stand",
+              "icon": "/riot/img/rune/8299.png"
+            }
+          ]
+        }
+      ]
+    },
+    "8100": {
+      "name": "Domination",
+      "icon": "/riot/img/rune/style-8100.png",
+      "slots": [
+        {
+          "runes": [
+            {
+              "id": 8112,
+              "name": "Electrocute",
+              "icon": "/riot/img/rune/8112.png"
+            },
+            {
+              "id": 8128,
+              "name": "Dark Harvest",
+              "icon": "/riot/img/rune/8128.png"
+            },
+            {
+              "id": 9923,
+              "name": "Hail of Blades",
+              "icon": "/riot/img/rune/9923.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8126,
+              "name": "Cheap Shot",
+              "icon": "/riot/img/rune/8126.png"
+            },
+            {
+              "id": 8139,
+              "name": "Taste of Blood",
+              "icon": "/riot/img/rune/8139.png"
+            },
+            {
+              "id": 8143,
+              "name": "Sudden Impact",
+              "icon": "/riot/img/rune/8143.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8137,
+              "name": "Sixth Sense",
+              "icon": "/riot/img/rune/8137.png"
+            },
+            {
+              "id": 8140,
+              "name": "Grisly Mementos",
+              "icon": "/riot/img/rune/8140.png"
+            },
+            {
+              "id": 8141,
+              "name": "Deep Ward",
+              "icon": "/riot/img/rune/8141.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8135,
+              "name": "Treasure Hunter",
+              "icon": "/riot/img/rune/8135.png"
+            },
+            {
+              "id": 8105,
+              "name": "Relentless Hunter",
+              "icon": "/riot/img/rune/8105.png"
+            },
+            {
+              "id": 8106,
+              "name": "Ultimate Hunter",
+              "icon": "/riot/img/rune/8106.png"
+            }
+          ]
+        }
+      ]
+    },
+    "8200": {
+      "name": "Sorcery",
+      "icon": "/riot/img/rune/style-8200.png",
+      "slots": [
+        {
+          "runes": [
+            {
+              "id": 8214,
+              "name": "Summon Aery",
+              "icon": "/riot/img/rune/8214.png"
+            },
+            {
+              "id": 8229,
+              "name": "Arcane Comet",
+              "icon": "/riot/img/rune/8229.png"
+            },
+            {
+              "id": 8230,
+              "name": "Stormraider's Surge",
+              "icon": "/riot/img/rune/8230.png"
+            },
+            {
+              "id": 8992,
+              "name": "Deathfire Touch",
+              "icon": "/riot/img/rune/8992.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8224,
+              "name": "Axiom Arcanist",
+              "icon": "/riot/img/rune/8224.png"
+            },
+            {
+              "id": 8226,
+              "name": "Manaflow Band",
+              "icon": "/riot/img/rune/8226.png"
+            },
+            {
+              "id": 8275,
+              "name": "Nimbus Cloak",
+              "icon": "/riot/img/rune/8275.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8210,
+              "name": "Transcendence",
+              "icon": "/riot/img/rune/8210.png"
+            },
+            {
+              "id": 8234,
+              "name": "Celerity",
+              "icon": "/riot/img/rune/8234.png"
+            },
+            {
+              "id": 8233,
+              "name": "Absolute Focus",
+              "icon": "/riot/img/rune/8233.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8237,
+              "name": "Scorch",
+              "icon": "/riot/img/rune/8237.png"
+            },
+            {
+              "id": 8232,
+              "name": "Waterwalking",
+              "icon": "/riot/img/rune/8232.png"
+            },
+            {
+              "id": 8236,
+              "name": "Gathering Storm",
+              "icon": "/riot/img/rune/8236.png"
+            }
+          ]
+        }
+      ]
+    },
+    "8300": {
+      "name": "Inspiration",
+      "icon": "/riot/img/rune/style-8300.png",
+      "slots": [
+        {
+          "runes": [
+            {
+              "id": 8351,
+              "name": "Glacial Augment",
+              "icon": "/riot/img/rune/8351.png"
+            },
+            {
+              "id": 8360,
+              "name": "Unsealed Spellbook",
+              "icon": "/riot/img/rune/8360.png"
+            },
+            {
+              "id": 8369,
+              "name": "First Strike",
+              "icon": "/riot/img/rune/8369.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8306,
+              "name": "Hextech Flashtraption",
+              "icon": "/riot/img/rune/8306.png"
+            },
+            {
+              "id": 8304,
+              "name": "Magical Footwear",
+              "icon": "/riot/img/rune/8304.png"
+            },
+            {
+              "id": 8321,
+              "name": "Cash Back",
+              "icon": "/riot/img/rune/8321.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8313,
+              "name": "Triple Tonic",
+              "icon": "/riot/img/rune/8313.png"
+            },
+            {
+              "id": 8352,
+              "name": "Time Warp Tonic",
+              "icon": "/riot/img/rune/8352.png"
+            },
+            {
+              "id": 8345,
+              "name": "Biscuit Delivery",
+              "icon": "/riot/img/rune/8345.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8347,
+              "name": "Cosmic Insight",
+              "icon": "/riot/img/rune/8347.png"
+            },
+            {
+              "id": 8410,
+              "name": "Approach Velocity",
+              "icon": "/riot/img/rune/8410.png"
+            },
+            {
+              "id": 8316,
+              "name": "Jack Of All Trades",
+              "icon": "/riot/img/rune/8316.png"
+            }
+          ]
+        }
+      ]
+    },
+    "8400": {
+      "name": "Resolve",
+      "icon": "/riot/img/rune/style-8400.png",
+      "slots": [
+        {
+          "runes": [
+            {
+              "id": 8437,
+              "name": "Grasp of the Undying",
+              "icon": "/riot/img/rune/8437.png"
+            },
+            {
+              "id": 8439,
+              "name": "Aftershock",
+              "icon": "/riot/img/rune/8439.png"
+            },
+            {
+              "id": 8465,
+              "name": "Guardian",
+              "icon": "/riot/img/rune/8465.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8446,
+              "name": "Demolish",
+              "icon": "/riot/img/rune/8446.png"
+            },
+            {
+              "id": 8463,
+              "name": "Font of Life",
+              "icon": "/riot/img/rune/8463.png"
+            },
+            {
+              "id": 8401,
+              "name": "Shield Bash",
+              "icon": "/riot/img/rune/8401.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8429,
+              "name": "Conditioning",
+              "icon": "/riot/img/rune/8429.png"
+            },
+            {
+              "id": 8444,
+              "name": "Second Wind",
+              "icon": "/riot/img/rune/8444.png"
+            },
+            {
+              "id": 8473,
+              "name": "Bone Plating",
+              "icon": "/riot/img/rune/8473.png"
+            }
+          ]
+        },
+        {
+          "runes": [
+            {
+              "id": 8451,
+              "name": "Overgrowth",
+              "icon": "/riot/img/rune/8451.png"
+            },
+            {
+              "id": 8453,
+              "name": "Revitalize",
+              "icon": "/riot/img/rune/8453.png"
+            },
+            {
+              "id": 8242,
+              "name": "Unflinching",
+              "icon": "/riot/img/rune/8242.png"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "perks": {
+    "8005": {
+      "name": "Press the Attack",
+      "icon": "/riot/img/rune/8005.png"
+    },
+    "8008": {
+      "name": "Lethal Tempo",
+      "icon": "/riot/img/rune/8008.png"
+    },
+    "8009": {
+      "name": "Presence of Mind",
+      "icon": "/riot/img/rune/8009.png"
+    },
+    "8010": {
+      "name": "Conqueror",
+      "icon": "/riot/img/rune/8010.png"
+    },
+    "8014": {
+      "name": "Coup de Grace",
+      "icon": "/riot/img/rune/8014.png"
+    },
+    "8017": {
+      "name": "Cut Down",
+      "icon": "/riot/img/rune/8017.png"
+    },
+    "8021": {
+      "name": "Fleet Footwork",
+      "icon": "/riot/img/rune/8021.png"
+    },
+    "8105": {
+      "name": "Relentless Hunter",
+      "icon": "/riot/img/rune/8105.png"
+    },
+    "8106": {
+      "name": "Ultimate Hunter",
+      "icon": "/riot/img/rune/8106.png"
+    },
+    "8112": {
+      "name": "Electrocute",
+      "icon": "/riot/img/rune/8112.png"
+    },
+    "8120": {
+      "name": "Ghost Poro",
+      "icon": "/riot/img/rune/8120.png"
+    },
+    "8124": {
+      "name": "Predator",
+      "icon": "/riot/img/rune/8124.png"
+    },
+    "8126": {
+      "name": "Cheap Shot",
+      "icon": "/riot/img/rune/8126.png"
+    },
+    "8128": {
+      "name": "Dark Harvest",
+      "icon": "/riot/img/rune/8128.png"
+    },
+    "8134": {
+      "name": "Ingenious Hunter",
+      "icon": "/riot/img/rune/8134.png"
+    },
+    "8135": {
+      "name": "Treasure Hunter",
+      "icon": "/riot/img/rune/8135.png"
+    },
+    "8136": {
+      "name": "Zombie Ward",
+      "icon": "/riot/img/rune/8136.png"
+    },
+    "8137": {
+      "name": "Sixth Sense",
+      "icon": "/riot/img/rune/8137.png"
+    },
+    "8138": {
+      "name": "Eyeball Collection",
+      "icon": "/riot/img/rune/8138.png"
+    },
+    "8139": {
+      "name": "Taste of Blood",
+      "icon": "/riot/img/rune/8139.png"
+    },
+    "8140": {
+      "name": "Grisly Mementos",
+      "icon": "/riot/img/rune/8140.png"
+    },
+    "8141": {
+      "name": "Deep Ward",
+      "icon": "/riot/img/rune/8141.png"
+    },
+    "8143": {
+      "name": "Sudden Impact",
+      "icon": "/riot/img/rune/8143.png"
+    },
+    "8210": {
+      "name": "Transcendence",
+      "icon": "/riot/img/rune/8210.png"
+    },
+    "8214": {
+      "name": "Summon Aery",
+      "icon": "/riot/img/rune/8214.png"
+    },
+    "8224": {
+      "name": "Axiom Arcanist",
+      "icon": "/riot/img/rune/8224.png"
+    },
+    "8226": {
+      "name": "Manaflow Band",
+      "icon": "/riot/img/rune/8226.png"
+    },
+    "8229": {
+      "name": "Arcane Comet",
+      "icon": "/riot/img/rune/8229.png"
+    },
+    "8230": {
+      "name": "Stormraider's Surge",
+      "icon": "/riot/img/rune/8230.png"
+    },
+    "8232": {
+      "name": "Waterwalking",
+      "icon": "/riot/img/rune/8232.png"
+    },
+    "8233": {
+      "name": "Absolute Focus",
+      "icon": "/riot/img/rune/8233.png"
+    },
+    "8234": {
+      "name": "Celerity",
+      "icon": "/riot/img/rune/8234.png"
+    },
+    "8236": {
+      "name": "Gathering Storm",
+      "icon": "/riot/img/rune/8236.png"
+    },
+    "8237": {
+      "name": "Scorch",
+      "icon": "/riot/img/rune/8237.png"
+    },
+    "8242": {
+      "name": "Unflinching",
+      "icon": "/riot/img/rune/8242.png"
+    },
+    "8275": {
+      "name": "Nimbus Cloak",
+      "icon": "/riot/img/rune/8275.png"
+    },
+    "8299": {
+      "name": "Last Stand",
+      "icon": "/riot/img/rune/8299.png"
+    },
+    "8304": {
+      "name": "Magical Footwear",
+      "icon": "/riot/img/rune/8304.png"
+    },
+    "8306": {
+      "name": "Hextech Flashtraption",
+      "icon": "/riot/img/rune/8306.png"
+    },
+    "8313": {
+      "name": "Triple Tonic",
+      "icon": "/riot/img/rune/8313.png"
+    },
+    "8316": {
+      "name": "Jack Of All Trades",
+      "icon": "/riot/img/rune/8316.png"
+    },
+    "8321": {
+      "name": "Cash Back",
+      "icon": "/riot/img/rune/8321.png"
+    },
+    "8345": {
+      "name": "Biscuit Delivery",
+      "icon": "/riot/img/rune/8345.png"
+    },
+    "8347": {
+      "name": "Cosmic Insight",
+      "icon": "/riot/img/rune/8347.png"
+    },
+    "8351": {
+      "name": "Glacial Augment",
+      "icon": "/riot/img/rune/8351.png"
+    },
+    "8352": {
+      "name": "Time Warp Tonic",
+      "icon": "/riot/img/rune/8352.png"
+    },
+    "8360": {
+      "name": "Unsealed Spellbook",
+      "icon": "/riot/img/rune/8360.png"
+    },
+    "8369": {
+      "name": "First Strike",
+      "icon": "/riot/img/rune/8369.png"
+    },
+    "8401": {
+      "name": "Shield Bash",
+      "icon": "/riot/img/rune/8401.png"
+    },
+    "8410": {
+      "name": "Approach Velocity",
+      "icon": "/riot/img/rune/8410.png"
+    },
+    "8429": {
+      "name": "Conditioning",
+      "icon": "/riot/img/rune/8429.png"
+    },
+    "8437": {
+      "name": "Grasp of the Undying",
+      "icon": "/riot/img/rune/8437.png"
+    },
+    "8439": {
+      "name": "Aftershock",
+      "icon": "/riot/img/rune/8439.png"
+    },
+    "8444": {
+      "name": "Second Wind",
+      "icon": "/riot/img/rune/8444.png"
+    },
+    "8446": {
+      "name": "Demolish",
+      "icon": "/riot/img/rune/8446.png"
+    },
+    "8451": {
+      "name": "Overgrowth",
+      "icon": "/riot/img/rune/8451.png"
+    },
+    "8453": {
+      "name": "Revitalize",
+      "icon": "/riot/img/rune/8453.png"
+    },
+    "8463": {
+      "name": "Font of Life",
+      "icon": "/riot/img/rune/8463.png"
+    },
+    "8465": {
+      "name": "Guardian",
+      "icon": "/riot/img/rune/8465.png"
+    },
+    "8473": {
+      "name": "Bone Plating",
+      "icon": "/riot/img/rune/8473.png"
+    },
+    "8992": {
+      "name": "Deathfire Touch",
+      "icon": "/riot/img/rune/8992.png"
+    },
+    "9101": {
+      "name": "Absorb Life",
+      "icon": "/riot/img/rune/9101.png"
+    },
+    "9103": {
+      "name": "Legend: Bloodline",
+      "icon": "/riot/img/rune/9103.png"
+    },
+    "9104": {
+      "name": "Legend: Alacrity",
+      "icon": "/riot/img/rune/9104.png"
+    },
+    "9105": {
+      "name": "Legend: Haste",
+      "icon": "/riot/img/rune/9105.png"
+    },
+    "9111": {
+      "name": "Triumph",
+      "icon": "/riot/img/rune/9111.png"
+    },
+    "9923": {
+      "name": "Hail of Blades",
+      "icon": "/riot/img/rune/9923.png"
+    }
+  },
+  "shards": {
+    "5001": {
+      "name": "Health Scaling",
+      "icon": "/riot/img/rune/shard-5001.png"
+    },
+    "5002": {
+      "name": "Armor",
+      "icon": "/riot/img/rune/shard-5002.png"
+    },
+    "5003": {
+      "name": "Magic Resist",
+      "icon": "/riot/img/rune/shard-5003.png"
+    },
+    "5005": {
+      "name": "Attack Speed",
+      "icon": "/riot/img/rune/shard-5005.png"
+    },
+    "5007": {
+      "name": "Ability Haste",
+      "icon": "/riot/img/rune/shard-5007.png"
+    },
+    "5008": {
+      "name": "Adaptive Force",
+      "icon": "/riot/img/rune/shard-5008.png"
+    },
+    "5010": {
+      "name": "Move Speed",
+      "icon": "/riot/img/rune/shard-5010.png"
+    },
+    "5011": {
+      "name": "Health",
+      "icon": "/riot/img/rune/shard-5011.png"
+    },
+    "5012": {
+      "name": "Resist Scaling",
+      "icon": "/riot/img/rune/shard-5012.png"
+    },
+    "5013": {
+      "name": "Tenacity and Slow Resist",
+      "icon": "/riot/img/rune/shard-5013.png"
+    }
+  }
+}

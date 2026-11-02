@@ -1,0 +1,11 @@
+The MIT license applies to this project's original code.
+
+League of Legends names, icons, rune art, champion portraits, and item images
+in public/riot are third-party game assets belonging to Riot Games. They are
+not relicensed under this project's MIT license. The asset sync scripts use
+Data Dragon and CommunityDragon; consult those sources for their terms.
+
+Vendored code and styles retain their own notices, including:
+- vendor/shadcn-tailwind-4.13.0.LICENSE.md
+
+Screenshots in public/evidence are reference material, not original code.
